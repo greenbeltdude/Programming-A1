@@ -16,7 +16,7 @@ classification, performance evaluation, and file-based input and output.
 
 ## Result
 
-Grade: **10/10**
+Grade: **9.5/10**
 
 ## Academic note
 
